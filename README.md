@@ -3,9 +3,8 @@
 
 ## 🚀 Skills
 - 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript
-- 🔧 Backend: Node.js, Express.js, MongoDB
-- 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists, Trees, Graphs
-- 📊 Tools: Git, GitHub, VS Code, Postman
+- 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists
+- 📊 Tools: Git, GitHub, VS Code
  
 ## 📬 Contact Me
 - 📧 Email: sarveshmokal105@gmail.com
