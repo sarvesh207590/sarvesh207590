@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvesh Mokal
+💻 Aspiring Web Developer  | 📘 DSA in Java   
 
-<!--
-**sarvesh207590/sarvesh207590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript
+- 🔧 Backend: Node.js, Express.js, MongoDB
+- 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists, Trees, Graphs
+- 📊 Tools: Git, GitHub, VS Code, Postman
+ 
+## 📬 Contact Me
+- 📧 Email: sarveshmokal105@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sarvesh-mokal-1381022a3/
