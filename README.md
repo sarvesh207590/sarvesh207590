@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Sarvesh Mokal
-💻 Aspiring Web Developer  | 📘 DSA in Java   
+💻 Aspiring Web Developer  | AI enthusiast   
 
 ## 🚀 Skills
 - 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js
+- ⚙️ Backend : Node.js,Express.js
+- 🗄️ Databases: MongoDB ,MySQL
 - 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists,Arrays,String, Linked List,Stack,Queue
-- 📊 Tools: Git, GitHub, VS Code, Android studio,Postman
+- 📊 Tools: Git, GitHub, VS Code, Android studio,Postman ,Docker
  
 ## 📬 Contact Me
 - 📧 Email: sarveshmokal105@gmail.com
