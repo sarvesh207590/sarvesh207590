@@ -2,7 +2,7 @@
 💻 Aspiring Web Developer  | 📘 DSA in Java   
 
 ## 🚀 Skills
-- 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript
+- 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js
 - 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists,Arrays,String, Linked List,Stack,Queue
 - 📊 Tools: Git, GitHub, VS Code, Android studio,Postman
  
