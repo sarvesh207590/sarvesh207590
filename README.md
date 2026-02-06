@@ -2,7 +2,7 @@
 💻 Aspiring Web Developer  | AI enthusiast   
 
 ## 🚀 Skills
-- 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js
+- 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js, Tailwind, TypeScript
 - ⚙️ Backend : Node.js,Express.js
 - 🗄️ Databases: MongoDB ,MySQL
 - 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists,Arrays,String, Linked List,Stack,Queue
