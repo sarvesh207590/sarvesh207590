@@ -14,15 +14,6 @@
 - 📧 Email: sarveshmokal105@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/sarvesh-mokal-1381022a3/
 
-###  📊 My Stats
-<p align="center">
- <a href="https://leetcode.com/u/sarveshmokal/" target="_blank">
-  <img align="center" src="https://leetcard.jacoblin.cool/sarveshmokal?hide=ranking&border=0&radius=21" width="380">
- </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,6 +35,18 @@
     <img src="https://skillicons.dev/icons?i=html,css,vite" />
   </a>
 </p>
+
+
+ 
+###  📊 My Stats
+<p align="center">
+ <a href="https://leetcode.com/u/sarveshmokal/" target="_blank">
+  <img align="center" src="https://leetcard.jacoblin.cool/sarveshmokal?hide=ranking&border=0&radius=21" width="380">
+ </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 
 ### 📊 GitHub Stats:
