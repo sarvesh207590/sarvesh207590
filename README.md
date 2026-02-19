@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sarvesh Mokal
 💻 Aspiring Web Developer  | AIML enthusiast   
-⁷
+
 ## 🚀 Skills
 - 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js, Tailwind, TypeScript
 - ⚙️ Backend : Node.js,Express.js
