@@ -1,11 +1,11 @@
 
 
 # 👋 Hi, I'm Sarvesh Mokal
-💻 Aspiring Web Developer  | AIML enthusiast   
+💻 Aspiring Web Developer  | AI ML enthusiast   
 
 ## 🚀 Skills
 - 💻 Frontend: React.js, Bootstrap, HTML5, CSS3, JavaScript ,Next.js, Tailwind, TypeScript
-- ⚙️ Backend : Node.js,Express.js
+- ⚙️ Backend : Node.js,Express.js, SpringBoot , Spring, Hibernate
 - 🗄️ Databases: MongoDB ,MySQL
 - 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists,Arrays,String, Linked List,Stack,Queue
 - 📊 Tools: Git, GitHub, VS Code, Android studio,Postman ,Docker
