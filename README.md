@@ -9,7 +9,7 @@
 - 🗄️ Databases: MongoDB ,MySQL
 - 📘 DSA & Problem Solving: Java, OOP Concepts, Arrays, Linked Lists,Arrays,String, Linked List,Stack,Queue
 - 📊 Tools: Git, GitHub, VS Code, Android studio,Postman ,Docker
-- Languages: Java, JavaScript, SQL, .Net,C#
+- Languages: Java, JavaScript, SQL, .Net,C#, Python
  
 ## 📬 Contact Me
 - 📧 Email: sarveshmokal105@gmail.com
